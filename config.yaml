@@ -16,7 +16,7 @@ params:
   editURL: https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/
   showVisitedLinks: yes
   titleSeparator: '::'
-  themeVariant: 'blue'
+  themeVariant: 'green'
   disableLanguageSwitchingButton: yes
 outputs:
   home:
