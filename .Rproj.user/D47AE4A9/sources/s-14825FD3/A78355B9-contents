@@ -1,0 +1,48 @@
+baseURL: /
+languageCode: en-US
+defaultContentLanguage: en
+title: Hugo Learn Documentation
+theme: hugo-theme-learn
+metaDataFormat: yaml
+defaultContentLanguageInSubdir: yes
+params:
+  author: Mathieu Cornic
+  customMermaidURL: https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js
+  description: Documentation for Hugo Learn Theme
+  disableBreadcrumb: no
+  disableLandingPageButton: yes
+  disableMermaid: no
+  disableNextPrev: no
+  editURL: https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/
+  showVisitedLinks: yes
+  titleSeparator: '::'
+  themeVariant: 'blue'
+  disableLanguageSwitchingButton: yes
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+Languages:
+  en:
+    landingPageName: <i class='fas fa-home'></i> Home
+    landingPageURL: /en
+    languageName: English
+    menu:
+      shortcuts:
+        - identifier: ds
+          name: <i class='fab fa-fw fa-github'></i> GitHub repo
+          url: https://github.com/bangtedy/wag
+          weight: 10
+        - name: <i class='fas fa-fw fa-camera'></i> Showcases
+          url: showcase
+          weight: 11
+        - identifier: hugodoc
+          name: <i class="fab fa-fw fa-twitter"></i> Twitter
+          url: https://twitter.com/t_hlb
+          weight: 20
+        - name: <i class='fas fa-fw fa-bullhorn'></i> Credits
+          url: /credits
+          weight: 30
+    title: Documentation for Hugo Learn Theme
+    weight: 1
