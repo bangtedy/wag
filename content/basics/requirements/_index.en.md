@@ -4,7 +4,7 @@ title: Deskripsi Mata Kuliah
 weight: 10
 ---
 
-Mata kuliah ini akan memperkenalkan kepada Mahasiswa konsep-konsep agribisnis sebagai sebuah sistem dan praktek manajemen. Mata kuliah ini akan memperkenalkan secara umum dan tidak mendalam prinsip-prinsip ekonomi serta konsep-konsep manajemen di dalam bisnis pertanian. Pembahasan manajemen agribisnis meliputi: manajemen rantai pasok, manajemen pemasaran, manajemen risiko, manajemen SDM dan kepemimpinan dalam agribisnis. Untuk bisa mengikuti mata kuliah ini, Anda harus sudah mengambil mata kuliah Pengantar Ilmu Pertanian.
+Mata kuliah ini memperkenalkan kepada mahasiswa tentang agribisnis sebagai sebuah sistem dan/atau sebagai praktek manajemen. Mata kuliah ini memperkenalkan secara umum dan tidak mendalam prinsip-prinsip ekonomi serta konsep-konsep manajemen di dalam bisnis pertanian. Pembahasan manajemen agribisnis meliputi: manajemen rantai pasok, manajemen pemasaran, manajemen risiko, manajemen SDM dan kepemimpinan dalam agribisnis.
 
 #### Tujuan Pembelajaran
 
@@ -41,7 +41,7 @@ ujian tengah semester (**UTS**) dan ujian akhir semester (**UAS**). Topik-topik 
 
 #### Kegiatan Pembelajaran
 
-Untuk mempelajari materi yang disajikan, mahasiswa harus membaca buku acuan pada bab-bab yang sesuai dengan materi pada minggu yang berkaitan dan mengerjakan tugas/latihan yang diberikan pada saat perkuliahan. Mahasiswa harus mereview semua bahan yang diberikan selama 14 kali untuk persiapan UTS dan UAS. Metode perkuliahan adalah kombinasi antara ceramah, diskusi, latihan dan presentasi kelompok. 
+Sesuai Keputusan Rektor UPM No:006 tahun 2022 tentang Pelaksanaan Pembelajaran Semester Genap Tahun Akademik 2O21/2O22 menggunakan metode pembelajaran Tatap Muka Terbatas dengan sistem hybrid, mahasiswa harap memperhatikan pengumuman yang disampaikan dosen di WAG yang sudah dibentuk. Untuk mempelajari materi yang disajikan, mahasiswa harus membaca buku acuan pada bab-bab yang sesuai dengan materi pada minggu yang berkaitan dan mengerjakan tugas/latihan yang diberikan pada saat perkuliahan. Mahasiswa harus mereview semua bahan yang diberikan selama 14 kali untuk persiapan UTS dan UAS. Metode perkuliahan adalah kombinasi antara ceramah, diskusi, latihan dan presentasi kelompok. 
 
 
 #### Buku Acuan
@@ -52,4 +52,4 @@ Untuk mempelajari materi yang disajikan, mahasiswa harus membaca buku acuan pada
 
 #### Teknologi yang Diperlukan
 
-Teknologi yang diperlukan untuk perkuliahan ini adalah komputer dengan pengolah kata dan presentasi, telepon seluler dan koneksi internet. 
+Teknologi yang diperlukan untuk perkuliahan ini adalah komputer, perangkat pengolah kata dan presentasi, telepon seluler dan koneksi internet. 

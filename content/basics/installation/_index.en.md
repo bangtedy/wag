@@ -11,6 +11,7 @@ Pelanggaran terhadap kebijakan tentang kejujuran akademik dan plagiarisme akan d
 
 #### Kehadiran dan Disiplin Mahasiswa
 
+Dalam hal perkuliahan dilakukan secara *luring*:
 1. Hadir paling lambat 15 menit. Mahasiswa **TIDAK DIPERKENANKAN** masuk kelas setelah 15 menit kuliah dimulai.
 2. Berpenampilan dan berbusana sopan serta rapi.
 3. Tidak menggunakan sandal atau sejenisnya, serta tidak mengoperasikan ponsel/laptop kecuali diminta untuk keperluan perkualiahan.
@@ -20,4 +21,4 @@ Pelanggaran terhadap kebijakan tentang kejujuran akademik dan plagiarisme akan d
 
 #### Tindak Kekerasan dan Pelecehan
 
-Mahasiswa harus selalu menjaga sopan santun dan menghormati semua dosen, tenaga pendidikan, petugas keamanan, tenaga kesehatan dan sesama mahasiswa. Perilaku dan tindak kekerasan, ancaman serta pelecehan yang mengganggu jalannya kegiatan pembelajaran, mengakibatkan kerusakan fasilitas dan properti kampus, akan diproses sesuai dengan aturan yang berlaku. Jika mahasiswa mengalami/melihat perilaku kekerasan dan/atau pelecehan seksual, segera menghubungi Satgas Universitas.
+Mahasiswa harus selalu menjaga sopan santun dan menghormati semua dosen, tenaga pendidikan, petugas keamanan, tenaga kesehatan dan sesama mahasiswa. Perilaku dan tindak kekerasan, ancaman serta pelecehan yang mendisrupsi kegiatan pembelajaran, mengakibatkan kerusakan fasilitas dan properti kampus, akan diproses sesuai dengan aturan yang berlaku.
