@@ -1,14 +1,14 @@
 baseURL: https://wagribisnis.netlify.app/
 languageCode: en-US
 defaultContentLanguage: en
-title: Hugo Learn Documentation
+title: Wawasan Agribisnis
 theme: hugo-theme-learn
 metaDataFormat: yaml
 defaultContentLanguageInSubdir: yes
 params:
   author: Mathieu Cornic
   customMermaidURL: https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js
-  description: Documentation for Hugo Learn Theme
+  description: Wawasan Agribisnis
   disableBreadcrumb: no
   disableLandingPageButton: yes
   disableMermaid: no
@@ -44,5 +44,5 @@ Languages:
         - name: <i class='fas fa-fw fa-bullhorn'></i> Credits
           url: /credits
           weight: 30
-    title: Documentation for Hugo Learn Theme
+    title: Wawasan Agribisnis
     weight: 1
